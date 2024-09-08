@@ -1,5 +1,7 @@
-WeatherApp
+#WeatherApp
+
 Overview:
+
 WeatherApp is an Android application designed to provide users with real-time weather information based on their current location or a location of their choice. Developed using Kotlin, Jetpack Compose, and Retrofit, the app follows the MVVM (Model-View-ViewModel) architecture for a structured and maintainable codebase. It features a dynamic search functionality that suggests locations as you type.
 
 
